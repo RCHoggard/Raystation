@@ -17,6 +17,10 @@
 # Output is suitable for direct pasting into Norwegian Excel (tab-separated columns).
 #
 # ------------------------------------------------------------------------------
+# Authors:
+# Robert Hoggard
+# Helse Møre og Romsdal HF
+# Raystation 2024B
 
 from connect import *
 import math
