@@ -3,7 +3,10 @@ Checks if ROIs in the current plan receive unexpected dose levels and verifies
 that they have active optimization objectives. Flags ROIs missing objectives
 or with zero objective values.
 """
-
+# Authors:
+# Robert Hoggard
+# Helse Møre og Romsdal HF
+# Raystation 2024B
 
 # Import RS resources
 from connect import *
